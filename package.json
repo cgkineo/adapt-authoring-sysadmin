@@ -1,0 +1,10 @@
+{
+  "name": "adapt-authoring-sysadmin",
+  "version": "0.0.1",
+  "description": "A system administration panel for the Adapt authoring tool UI",
+  "homepage": "https://github.com/cgkineo/adapt-authoring-sysadmin",
+  "main": "index.js",
+  "dependencies": {
+    "adapt-authoring-core": "git+https://github.com/adapt-security/adapt-authoring-core.git"
+  }
+}
